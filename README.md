@@ -51,5 +51,5 @@
     Use `curl` to retrieve notifications:
 
     ```bash
-    curl http://localhost:8081/notifications/1
+    curl http://localhost:8081/notifications/<id>
     ```
